@@ -5,4 +5,12 @@ export const Container = styled.div`
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+
+  ul,
+  ol {
+    list-style: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+  }
 `;

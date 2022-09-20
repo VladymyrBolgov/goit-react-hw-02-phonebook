@@ -21,7 +21,7 @@ export const ContactListText = styled.p`
 export const ContactListBtn = styled.button`
   display: block;
   width: 100px;
-  height: 40px;
+  height: 30px;
   font-size: 12px;
   text-transform: uppercase;
   border-radius: 5px;
